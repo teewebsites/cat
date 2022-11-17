@@ -1,8 +1,8 @@
 
 import Image from "next/image";
-import cat1 from "../public/cat1.webp"
-import cat2 from "../public/cat2.webp"
-import cat3 from "../public/cat3.webp"
+import cat1 from "../public/images/cat1.webp"
+import cat2 from "../public/images/cat2.webp"
+import cat3 from "../public/images/cat3.webp"
 
 export default function Home() {
   return (
